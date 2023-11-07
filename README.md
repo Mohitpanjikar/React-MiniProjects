@@ -6,7 +6,7 @@ Welcome to the React Mini Projects repository! This repository contains a collec
 
 1. **Tour Guide Web App:** A web application that provides information about different tourist destinations, with the ability to remove tours that you're not interested in.
 ![Project Screenshot](https://github.com/Mohitpanjikar/React-MiniProjects/blob/main/TourGuide1.png)
-![Project Screenshot](https://github.com/Mohitpanjikar/React-MiniProjects/blob/main/TourGuide2.png)
+
 2. **Counter Web App:** A simple counter application that allows you to increment or decrement a counter value.
 ![Project Screenshot](https://github.com/Mohitpanjikar/React-MiniProjects/blob/main/CounterApp/Counterwebapp.png)
 
